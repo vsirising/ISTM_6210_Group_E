@@ -18,7 +18,7 @@ You can only create an admin user through a file call â€œadminregistration.phpâ€
 
 5. Upload Contents
 As a Instructor Account, you have the ability to upload the contents for the students. After you log into the system you will see the dashboard where you can select which type of contents you want to upload. Click the Upload button to upload your video (The maximum upload file size is 500 MB). Fill out the description of the video and click upload. The video will be uploaded and stored in the folder cardio/strength/yoga (depending on the type of  content you choose to upload). Once you have uploaded the video, it will be displayed on the content dashboard.
-
+We put the sample videos in google drive if you need. (https://drive.google.com/drive/folders/1NF5WR_2myzwKO1KrG1AYHJccQJ9ZnuJ7?usp=sharing)
 
 6. Admin Content and Account Management
 As an Admin, you will be able to edit and delete both the student account, instructor account and contents. If you want to edit or delete an account, click on the edit students account or edit instructor account on the dashboard. If you want to edit or delete any content, click on the edit contents dashboard. 
